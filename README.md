@@ -1,6 +1,5 @@
-# Java-Hiring_Robot
 # This is a hiring robot coded with Java language.
-# The main purpose of this program is to provide companies with a lot of job applications to perform a quicker comparison among applicants who will be invited to meet face-to-face based on old candidate data.
+## The main purpose of this program is to provide companies with a lot of job applications to perform a quicker comparison among applicants who will be invited to meet face-to-face based on old candidate data.
 
 - I imported various informations from previous candidates.
 - I store 4 attribute and one accepted or rejected data. These can be like that communication,skill,appereance,experience,acceptep_or_rejected as 0,1
