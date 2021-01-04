@@ -8,6 +8,6 @@
 - After that operation, when we put new candidate with 4 attribute program calculates the euclidean distance to the nearest 5 previous candidates.
 - If 3 of them was accepted before according to the old data, program prints "Accepted" else "Rejected".
 
-## to try with different candidates use the "yeni_adaylar" array in the main method.
+* to try with different candidates use the "yeni_adaylar" array in the main method.
 
 
