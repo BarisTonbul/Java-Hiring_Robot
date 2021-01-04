@@ -4,7 +4,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class IseAlimRobotu {
+public class HiringRobot {
 	private static double[][] arr,arr1,arr2;
 	private static double sum = 0;
 	private double array[];
